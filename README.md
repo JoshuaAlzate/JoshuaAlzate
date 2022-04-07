@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Angular, React, Node.JS
 - 🌱 I’m currently learning NgRx, GraphQL, Kubernetes
 - 💬 Ask me about Angular, Next.JS, Node
-- 📫 How to reach me: [@RichJoshAlzate][twitter]
+- 📫 How to reach me: [@RichJoshAlzate][telegram]
 
 ## 🤝 Connect with me:
 
@@ -40,6 +40,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [facebook]: https://www.facebook.com/Joshanity17
 [twitter]: https://twitter.com/RichJoshAlzate
 [linkedin]: https://www.linkedin.com/in/joshuaalzate/
+[telegram]: https://t.me/RichJoshuaAlzate
 
 
 <!--
